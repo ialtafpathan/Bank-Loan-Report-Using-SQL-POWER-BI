@@ -31,14 +31,15 @@ The dashboard uses data from a bank's loan database. The data includes informati
 
 # Key Fields in the Dataset:
 - id: Unique loan ID. 
-- purpose: The purpose of the loan (e.g., debt consolidation, credit card, home improvement). 
--home_ownership: The home ownership status of the loan applicant. 
--grade and sub_grade: Loan grading system used by the bank. 
--issue_date: The date the loan was issued.  
--funded_amount: The total amount funded for the loan.  
--interest_rate: The interest rate applied to the loan.  
--installments: The monthly installment amount for the loan.  
--received_amount: The total amount received by the bank from the loan. 
+- purpose: The purpose of the loan (e.g., debt consolidation, credit card, home improvement).
+- home_ownership: The home ownership status of the loan applicant.
+- grade and sub_grade: Loan grading system used by the bank.
+- issue_date: The date the loan was issued.
+- funded_amount: The total amount funded for the loan. 
+- interest_rate: The interest rate applied to the loan.  
+- installments: The monthly installment amount for the loan.  
+- received_amount: The total amount received by the bank from the loan. 
+
 
 # Summary Dashbiard
 ![Screenshot (55)](https://github.com/user-attachments/assets/06f9da32-e069-4326-b933-9012ada522b8)
